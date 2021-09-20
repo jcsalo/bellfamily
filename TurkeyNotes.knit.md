@@ -1,0 +1,687 @@
+--- 
+title: "Turkey Trip Notes"
+author: "Jonathan Salo"
+date: "2021-09-20"
+output:
+  html_document:
+    df_print: paged
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+description: Notes from Walking the Text trip to Turkey September 2021.
+site: bookdown::bookdown_site
+---
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction {#intro}
+
+
+
+<!--chapter:end:01-intro.Rmd-->
+
+# Colossae
+
+## Geography
+
+Mount Cadmus is source of water
+
+## Culture
+
+Red-purple dye =  Colossinus
+
+## History
+
+Tell not yet excavated
+
+480BC Xerxes (Persian) invaded
+
+Leading city 5/6 Century BC
+
+300BC Heropolis built
+
+60 AD - Earthquake decimated
+
+5/6 Century AC -> people moved out
+
+## Biblical References
+Paul took road through interior to Ephesus on 3rd missionary journey
+Paul never met Colossains
+Letter written by Paul from Rome - Delivered by Tichichus
+
+## Ephesians 4: Instructions to Families
+
+### Domestic Relationships in Roman culture
+
+Aristotle Politics: Household management in its perfect form: master + slave, husband + wife, 
+
+449BC - Law on 12 Tablets
+
+Pater Familia - held power of life and death for household members
+
+### Ephesians 4
+
+Paul didn't invent Roman household code. Instructions are given first to wives, then husbands (pater familias), then children.  Addressing wives first was unheard of in Roman society.
+
+### Marriage types
+
+- With the hand - Man brings a women into his home (and she is subject to him) - 50%
+- without the hand - Wife is not under husband's authority
+
+### Instructions to husbands
+
+Husbands - Agapao - love without expecting anything in return. This was revolutionary in Roman culture, which was highly transactional. Many marriages were politically expedient
+
+Work for master - LORD: Kuios
+
+### Slavery 
+
+Paul couldn't abolish slavery, as the whole economy of the Roman Empire depended upon slavery.
+
+### Instructions to children
+
+Children - when asked to obey - assumes agency
+
+<!--chapter:end:03-colossae.Rmd-->
+
+# Aphrodisia
+Friday Morning September 17th
+
+ City of Marble ( 1  mile from marble quarry)
+ 
+ 
+ Origins as small village until 2nd centry BC
+ Growth as artisians began to move from Pergamum
+ Incorporated as city in 1st century BC
+ 44BC Julius Cesar assinated
+ - Brutus and Cassius were responsible
+ - Octavian and Mark Anthony and ___ form triumverate
+ - Civil war between Octavian and Mark Anthoby vs Brutus and Cassius
+ - Aphrodisia supported Octavian
+ - Labienus and his followers supported Brutus and Cassius
+ - Labienus pillories Aphrodisia for their support of Octavian
+ 42BC Octavian and Mark Anthoy defeat Brutus and Cassius (who commit suicide)
+ 39BC Mark Anthony grants free city status to Aphrosisia for their loyalty to him
+30BC Mark Anthony commits suicide after defeat by Octavian (Caesar Augustus)
+Inscription in wall from Julius Cesar: "I love this city and take it as my own"
+
+## Origin Stories
+
+Homer writes Iliad and Odyssey, which forms origin story for Greece
+Viril writes Aenid, which connects Greek and ROman origin stories. 
+
+Stort starts when Troy is burning (same scene as end of Iliad). 
+Aphrodite (Venus) is father of Aenis
+
+### Emperors connected with Aphrodite in their own origin story
+
+Omrit - 2 miles outside of Cesari Phillipi
+
+- Temple to Cesar Augustus
+- Status of Venus present
+=> Emperor identified with Aphrodite
+
+## Temple to Adphodite
+
+Tetrapylon - Gateway into sanctuary - built 200AD
+
+Temenos - Courtyard
+Proneos - Front part
+Neos - Holy of Holies
+
+
+# Museum
+
+Obelisk - 125 different names of those providing for those in need.
+Three categories of names:
+
+- Jews (n=61)
+- Proselytes (n=3) Gentiles who desire to convert to Judiasm. [Wikipedia](https://en.wikipedia.org/wiki/Proselyte)
+
+  - (Baptized)
+  - Circumcision
+  - Kosher laws
+  
+- God-Fearing (n=52)
+  
+Gentiles who want to worship Yaweh but don't want to adopt culture of Jews. [Link](https://www.biblestudymagazine.com/bible-study-magazine-blog/2016/6/3/who-were-the-god-fearers)
+
+Acts 13:16
+
+> So Paul stood up, and motioning with his hand said:
+“Men of Israel and you who fear God, listen. 
+
+Acts 17:4
+
+>And some of them were persuaded and joined Paul and Silas, as did a great many of the devout Greeks and not a few of the leading women.
+
+Acts 17:17 
+
+> So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there.
+
+
+## Sebastieon 
+
+### Aphrodite
+
+- Goddess of Love. Usually depicted as sensual
+
+- Mother Goddess. Statue found in Temple to Aphodite portrays her as mother godess (in full length dress)
+
+Sebastos = venerable one = Greek version of Augustun
+
+The Sebasteion, excavated in 1979-81, was a grandiose temple complex dedicated to Aphrodite and the Julio-Claudian emperors . Its construction stretched over two generations, from c. AD 20 to 60, from the reign of Tiberius to that of Nero. The complex was paid for by two prominent Aphrodisian families. It consisted of a Corinthian temple and a narrow processional avenue (90 x 14 m) flanked by two portico-like buildings, each three-storeyed (12 m high), with superimposed Doric, Ionic, and Corinthian orders. These North and South Buildings, which defined the processional avenue, carried marble reliefs in their upper two storeys for their whole length. The reliefs were framed by the columnar architecture so that the two facades looked like closed picture-walls. Some 200 reliefs were required for the whole project, and more than 80 were recovered in the excavation. They featured Roman emperors, Greek myths, and a series of personified ethne or 'nations' of Augustus' world empire, from the Ethiopians of eastern Africa to the Callaeci of western Spain[link](http://aphrodisias.classics.ox.ac.uk/sebasteion.html)
+
+Temple to Aphrodite and Julio-Claudian emporers (except Caligula)
+
+Reliefs recounted the deeds of the emperor.
+
+Poema = Work of poetra
+
+Eph 2:8-10 
+
+>For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
+
+We are God's Sebastien - recounting of his deeds
+
+>“Do you know what it means that you are God’s workmanship? What is art? Art is beautiful, art is valuable, and art is an expression of the inner being of the maker, of the artist. Imagine what that means. You’re beautiful, you’re valuable, and you’re an expression of the very inner being of the Artist, the divine Artist, God Himself. You see, when Jesus gave Himself on the Cross, He didn’t say, “I’m going to die just so you know I love you.” He said, “I’m going to die, I’m going to bleed, for your splendor. I’m going to re-create you into something beautiful. I will turn you into something splendid, magnificent. I’m the Artist; you’re the art. I’m the Painter; you’re the canvas. I’m the Sculptor; you’re the marble. You don’t look like much there in the quarry, but I can see. Oh, I can see!” Jesus is an Artist!” And you beloved are His crowning achievement, His masterpiece!^[Tim Keller]
+
+How do our lives (and deeds) communicate a message about who God is?
+
+
+I Peter - Living stones buiolt together
+
+Your body is a temple
+
+I Cor 3
+
+I Cor 6
+
+=> Allow God to shape your life
+
+## Kingdom of Priests
+
+<!--chapter:end:04-aphrodisia.Rmd-->
+
+# Philadelphia
+
+## Background
+
+1 - "Gateway to the East"
+2 - Promoted Hellenistic values
+
+## Culture and industry
+
+Famous for grape production due to volcanic soil. Catacecaumene = "burnt land"
+
+## Religion
+
+Patron saint - Dionysus
+
+- God of wine
+- God of the arts esp theater
+- God of Spring Break
+
+## History
+
+Founded by Attelis II (ruled 168-158 BC). Nicknamed Philadelphus because elder brother ruled Attelid kingdom (Eumenes II) before him from 197-159BC.  In the 160s Attelis II made a trip to Rome, and wanted him to overthrow his brother.  Eumenes found out, and named his brother 
+
+
+
+
+
+
+<!--chapter:end:05-philadelphia.Rmd-->
+
+# Antalya
+
+## History
+
+- Founded by Attlus II
+- 190BC Antiochus III defeated at battle of MAgnesia by Romans + Pergamenes.
+  For events of Antiochus III See Daniel 11:10-19
+- 188 BC Treaty of Apamea
+- 133 BC - Attalus III willed lands to Rome, but Atalya remained free
+- 64 BC - Rome annexed Atalya by Pompey
+- 40-39 BC Parthians  occupied Antioch on the Orantes
+
+## Saul
+
+(Look at how people are introduced``)
+
+- Acts 7:5-8  They laid their coats at the feet of Saul
+- Acts 8:1-3 Saul approved of their execution.  He put beleivers in prison.
+- Acts 21:39 (arrested on temple mount
+- Ats 22:3
+
+### Tarsus
+171BC citizens of Tarsus began receiving Roman citizenship. 64BC Capital of Cilicia. Site of largest philosophy school in the empire
+
+### Gamiel
+
+Acts 22:3 Studied under Gamiel in Jerusalem (required $)
+
+Gamiel - First rabbi (my teacher) given title of rabboni (our teacher)
+
+- Grandson of Hillel
+
+Hillel
+
+- Died when Jesus was 20
+- More Progressive/tolerant
+
+Shamai
+
+- More conservative
+
+Jesus tended to favor teaching of Hillel (except about marriage)
+
+Acts 5:30-40 Gamiel (honored by all): "If (the Way) is from God, you will not be able to stop it, because you cannot oppose God.
+
+Acts 9:1 Saul - asked for letters for Damascus (150 miles away) to take them as prisoners
+
+Acts 22:3
+
+Acts 22:3-21
+
+Acts 20:9-18
+
+Galatians 1:3-7
+
+
+
+# Antalya
+
+Acts 9:34 Damascus Saul,Saul
+
+Ez 1:28 Rainow / Glory -> fell face down
+
+Acts 9:15 GO -> proclaim my names to the Gentiles
+
+Gal 1:15-16 God set me apart from my mother's womb
+
+Is 49 Called me from my mother's womb -> light to the Gentiles
+
+Jer 1:5
+
+Paul arrives in town -> goes to synagogue first
+
+Acts 9:9
+
+Acts 9:4
+
+Jonah - 3 days in the whale
+
+Fighting against the goads
+
+Gamiel -> if the Way is from God, you cannot resist it, because you would be resisting God
+
+Playwright from the day (Euripidies): futility of resisting the gods- kick against the goads.
+
+Gal 1:  Gospel is not of human origin. As zealous as any
+
+
+## Zeal
+Hebrew:  Kana'
+Phineas
+Num 25
+EliJah
+I kings 19:10  I have zealously served the Lord
+Zealots - Intertestimental period
+- Zealous and stopping at nothing
+- Maccabean revolt AD6
+
+Ps 69:8-9
+
+## Paul went to Arabia
+I Kings 19:15 Lord says to Elijah: return to wilderness
+
+Gal 1:17 I did not go up to Jerusalem but went to Arabia
+
+Gal 4:25 Hagar is Mt Sinai in Arabia
+
+(Province of Arabia is Siani penninsula - NOT Saudi Arabia)
+
+
+## Wilderness
+God meets people in the wilderness - MOses, Issrael - Elijah - Paul
+
+Paul spends 3 years in the wilderness getting his theology right.  He was zealous in persecuting the Way, but needed to re-orient.
+
+
+Acsts 13:13 Pamphylia
+
+Acts 14:25-26 Perga -> Atylia -> Antioch
+
+<!--chapter:end:21-antalya.Rmd-->
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Sardis
+Saturday Sept 18th morning
+
+## Gospel of John
+
+- Written to Asia
+
+## Vineyards
+
+Jn
+
+
+Ancient vineyards run along the ground.  In contact with ground, grapes can become contaminated with fungus (grape smut?) which stunts their growth
+
+Modern vineyards raise the vines off the ground on wires.
+
+Vinedresser in ancient times if they found contaminated grapes, wound life up vines on a rock on on a forked stick in order to allow the sun to dry off the grapes and combat grape fungus.
+
+
+Every branch that bears fruit the vinedresser prunes, that it will bear more fruit.
+
+Pruning cuts off leaves 
+
+- Allows sun to get to other leaves
+- Permits directing nutrients
+
+
+
+=> We need to trim the good things in our lives to make energy for the great things.
+
+Requires being clear on who you are and what you are uniquely called (and gifted) to do
+
+"Good to Great" - Enemy of great is good
+
+Brad Gray - As a candidate for a pastoral job - re-wrote the job description and handed it back go searach committee.
+
+Look at how many times Jesus disppointed those around him (people he didn't heal). "That is why I have been sent"
+
+Imperative : __remain in me__
+
+## What are the fruit
+
+### Good works
+
+You will know (false prophets) by their fruit - Can bramble bear good fruit?
+
+### Fruits of the Spirit
+
+Character as evidenced by good deeds
+
+
+
+
+
+## John 15-17
+
+Where do the events in these chapters take place?
+
+John 14: Let us leave (Upper Room)
+
+John 18 - Jesus left -> corssed the Kidron Valley
+Perhaps they left the Eastern Gate after leaving the temple, which would lead to the garden (also referred to as Geshsemene).
+
+### Did John 15-17 take place in the Temple
+
+Temple was left unlocked during passover (so that the Messiah wouldn't be locked out of the temple)
+
+Jesus was the new Moses
+
+- 
+
+<!--chapter:end:41-sardis.Rmd-->
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Sardis Site
+Saturday Sept 18th morning
+
+Large site
+
+## History
+
+Founded 1400BC - Center of Lydian Kingdom
+
+Roman province of Asia established 129BC
+
+First community to start dying wool, created dice, 
+
+### Heraclips Dynasty.
+
+Earliest rulers: Heraclips - ruled 505 years and 55 kings
+
+Last Heraclips king: Canalves - had beautiful wife. Demanded that his chief bodyguard see her naked to know how beautiful she was.  Canalves hid Guyges in his wife's bedroom.  Wife discovers Guyges and proposes two options to address her dishonor:  Guyges would kill himself, or would kill her husband (for arranging dishonor), and she would marry him. Guyges would become first of Mermnad dynasty.
+
+### Mermnad Dynasty
+
+Heroditis - Mermnad rulers invented coinage
+
+Mining gold in Paltolis river runs between Acropolis and Necropolis
+
+
+
+## Battle with Cyrus
+
+Croesus - Mermnad king. Ten years into his rein, debates challenging Cyrus (leader of Persian empire).  
+
+Inquires of Oracle at Delphi. Was told:  _If you cross the River Hales, a great kingdom would be destroyed_
+
+547BC  Croesus crosses the Haley river at Cappodicia to fight Cyrus.  Battle ends in stalemate.  The end of the fighting season ends, Croesus dismissed the allied armies and heads back to Sardis. Cyrus pursues Croesus and asks the allied armies to join him, ,but they refuse.
+
+October 546BC Cyrus besieged Sardis for one year.
+
+Persian solder observed a Lydian soldier climb down the wall to retrieve a dropped helmet.  This observation identified an ara of vulnerability in the wall.  A small team was able to breach the wall at night, and open the city gates.
+
+334BC - Sardis remained in Persian control
+
+Conquered by Alexander the Great
+
+220 BC - Celucid king in control
+
+Achaeus usurped autority and rebelled against Antiochus III and pronounced himself king.
+
+Antiochus 
+
+<!--chapter:end:42-sardis_Site.Rmd-->
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Thyatira
+
+Smallest city, but longest letter
+
+(Why site a city where there is no natural protection?)
+
+3000 BC Lydian town - located near site of Lydian worship of sun god Tyrimnus.
+
+Seleucus I formed a miliary colon with Macedonian soldiers in 300s BC
+
+190 BC Seleucids under Antiochus III held the city.
+
+188 BC Treaty of Apamea resulted in control by the Attalids
+129BC incorporated into Roman province of Asia
+
+## Culture
+
+Manufacturing city:  Bronze working, baking, shoemaking
+
+Acts 16:19  Paul by the river... Woman Lydia from Thyatira, craftsman of purple cloth. (Location would have been Philllipi)
+
+## Deeds
+
+Word used 5x in letter:  ergon  $\epsilon \rho \omega \nu$
+
+
+James
+
+Faith - pistos $ \pi \iota \sigma \tau \omega \sigma $
+Workd -  ergon  $\epsilon \rho \omega \nu$
+
+## Food sacrificed to idols
+
+Acts 15:29
+
+>that you abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell.”
+
+Acts 21:25
+
+>But as for the Gentiles who have believed, we have sent a letter with our judgment that they should abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality.”
+
+
+
+<!--chapter:end:47-thyatira.Rmd-->
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Pergamum
+
+$ /pi /epsilon /rho /gamma /alpha /mu /omega /sigma $ = Height / Elevation / Citadel
+
+
+
+
+## Geography
+
+Not a port city
+
+Located on a mountain - easily defendable.  No steep cliff like Sardis
+
+## History
+
+Settlement 8th Century BC
+
+Controlled by Alexander the great.
+
+After Alexander's death, empire split among Alexander's generals.
+
+  - Lysimachus takes control of western Asia 
+  - Celecus takes control of territories to the East
+  - Celuces attacks Lysimicus in order to expand his territody
+  - Philestaerus - steward of the city of Pergamum for Lysimicus:  Switches sides to Celecus just prior to the battle for Pergamum.
+  - Celecus wins and rewards philestra, who became wealthy
+  
+  Philestaerus becomes first Attelid kings. 
+  
+  212 BC:  Alliance of Rome and Attalus I attacks Antiochus III the Great and wins. Rome allows Attalus to keep control of Pergamum (as they were skeptical that they could control a large modern city.)
+  
+190 BC Battle of Magnasia
+
+189 BC Treaty of Apamea
+
+133 BC
+
+129 BC Pergamum become capitol of province of Asia. 150 AD Ephesus is on the ascendency and overshadows Pergamum. Ephesus has a port, which Pergamum does not.
+
+31 BC Octavian defeats Mark Anthony i Battle of ___.
+
+29 BC Pergamum asks Octavian to allow it to be the first city to construct a temple for emperor worship.  Octavian agrees, on the condition that temples are also constructed at Ephesus and Nicea to Roma and ___.
+
+### Ius Gladii
+
+Only Roman governors and the emperor were given the right of the sword, meaning the power to execute capital punishment. Roman legionnaires carried a double-egded sword.  Emporer carried a pear-shaped sword ( to emphasize their power of life and death).  Usual mechanism of capital punishment was the gladiatorial ring.
+
+
+
+
+
+## Throne of Satan
+
+Sites of pagan worship in Pergamum which might be candidates for "Throne of Satan":
+
+### Temple of Zeus
+
+
+### Temple of Athena
+
+### Trajan Temple
+
+Built 98-117 AD for emperor worship.
+
+Original temple built in 29 BC for emperor worship has not been found.
+
+26 AD 2nd temple built for Smyrna - Neocordis for Tiberius. This means that for 50 years, Pergamum was leading site for emperor worship.
+
+98 AD Trajan selects Pergamum as site for construction of temple for emperor worship. Supported by Arches (similar to Herod supporting Temple in Jerusalem)
+
+Ephesians 1-3: Chritian identity.  Chapters 4-6: Christian behavior.  Fits pattern of identity -> Calling -> Conduct.
+
+Our fight is not against flesh and blood.
+
+Armour of God is defensive
+
+Roman soldiers forbidden to protect hamstrings (so that they would not be comofrtable running away from the enemy).
+
+Need a community to stand firm
+
+### Temple to Dionysus
+
+Theater began in ancient Greece
+
+Springtime festival: Dionysus was recurrected from the dead each spring. Dionysus was patron saint of theater and the arts.
+
+#### 
+
+<!--chapter:end:51-pergamum.Rmd-->
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Scripture memorization
+
+With memorization: scripture is always available and "inside"
+
+
+1) Find arc and movement of the story line. Read several times
+
+2) Memorize images of lines of scripture on the bible page
+
+3) Speak it 7 times outloud - ready to go on to next verse
+
+4) Break up into chunks, then repeat chunks together
+
+5) when tricky- draw a picture or acronym (especially for lists)
+
+6) Motions with hands to remember what's next. Muscle memory for motions
+
+7) Memory temple
+
+Beatitudes:
+
+- Poor in spirit (dust on head)
+- Mourn - (tear)
+- Humble (no nose in the air)
+- Hungry (mouth)
+- Merciful (no grabbing the neck)
+- Peacemakers (hands)
+- Persecuted (sawn in half)
+
+8) Memory is a muscle
+
+9) Hebrew has a cadence when reciting.  Look for rhythmn and beat.
+
+10) No substitution for repetition 
+
+11) Scriptures tend to be visual (Psalm 1 - Walk -> sit -> stand)
+
+# Communication Resources
+
+Carmine Gallo
+
+- Talk like TED
+- Storytellers Secret
+
+<!--chapter:end:91-memorization.Rmd-->
+

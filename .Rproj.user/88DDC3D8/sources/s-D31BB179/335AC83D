@@ -3,7 +3,7 @@
     "path": "~/Turkey/TurkeyNotes/_bookdown.yml",
     "project_path": "_bookdown.yml",
     "type": "yaml",
-    "hash": "97149949",
+    "hash": "3235032895",
     "contents": "",
     "dirty": false,
     "created": 1631788619599.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "5,28",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631788594,
+    "lastKnownWriteTime": 1632164352,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631788594,
+    "last_content_update": 1632164352213,
     "read_only": false,
     "read_only_alternatives": []
 }
