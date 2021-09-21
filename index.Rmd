@@ -1,11 +1,25 @@
 --- 
-title: "Turkey Trip Notes"
 author: "Jonathan Salo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 biblio-style: apalike
 link-citations: yes
-description: "Notes from Walking the Text trip to Turkey September 2021."
-
+description: Notes from Walking the Text trip to Turkey September 2021.
 ---
+
+```{r eval=FALSE, echo=F}
+install.packages("bookdown")
+# or the development version
+ #devtools::install_github("rstudio/bookdown")
+```
+
+
+```{r include=FALSE,echo=F}
+# automatically create a bib database for R packages
+#knitr::write_bib(c(
+#  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+#), 'packages.bib')
+```
+
+Notes from Turkey Trip
