@@ -1,4 +1,5 @@
 --- 
+title: "turkey"
 author: "Jonathan Salo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -7,6 +8,8 @@ biblio-style: apalike
 link-citations: yes
 description: Notes from Walking the Text trip to Turkey September 2021.
 ---
+
+# Turkey Trip
 
 ```{r eval=FALSE, echo=F}
 install.packages("bookdown")
