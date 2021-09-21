@@ -2,12 +2,10 @@
 title: "Turkey Trip Notes"
 author: "Jonathan Salo"
 date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
+site: bookdown::bookdown_site
 documentclass: book
 biblio-style: apalike
 link-citations: yes
-description: Notes from Walking the Text trip to Turkey September 2021.
-site: bookdown::bookdown_site
+description: "Notes from Walking the Text trip to Turkey September 2021."
+
 ---
