@@ -1,4 +1,16 @@
 turkey-trip
+day-1
+devotion
+roman-empire
+emporers
+roman-gods
+helenism
+site
+vaclav-museum
+paul-encountering-jesus-on-the-damascus-road
+paul-in-antioch-in-pisidia
+paul-and-barnabas-switch-roles
+aristotlean-rhetoric
 antalya
 history
 saul
@@ -74,5 +86,7 @@ oracle
 holiness
 miletas
 wrap-up
+resources
 scripture-memorization
 communication-resources
+other-resources
