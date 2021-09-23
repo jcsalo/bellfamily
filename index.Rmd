@@ -25,4 +25,10 @@ install.packages("bookdown")
 #), 'packages.bib')
 ```
 
-Notes from Turkey Trip
+Notes from [Walking the Text](http://walkingthetestcom) trip to Turkey September 12-24, 2021
+
+- Day 1: Antalya
+- Day 2: 
+- Day 3:
+
+- Day 9: Pierene
