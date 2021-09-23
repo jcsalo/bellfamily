@@ -3,7 +3,9 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Scripture memorization
+# Resources
+
+## Scripture memorization
 
 With memorization: scripture is always available and "inside"
 
@@ -40,9 +42,17 @@ Beatitudes:
 
 11) Scriptures tend to be visual (Psalm 1 - Walk -> sit -> stand)
 
-# Communication Resources
+## Communication Resources
 
 Carmine Gallo
 
 - Talk like TED
 - Storytellers Secret
+
+## Other Resources
+
+Church Called Tov
+
+Leaders Who Last
+
+Sticky Faith
