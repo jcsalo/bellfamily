@@ -27,30 +27,37 @@ install.packages("bookdown")
 
 Notes from [Walking the Text](http://walkingthetestcom) trip to Turkey September 12-24, 2021
 
-- Day 1: Vaclav 9/13 01-vaclav
-- Day 2: Antalya 9/14  Perga Muratpasa.  Harbor. Antalay Museum 10am.  Perga
-- Day 3: 9/15 Weds  Gorguorta Mh (outside Yalvac). Museum
-- Day 4: 9/16 Thurs Denizli Frontinus Gate and Heiropolos (spring). Pamukkale Pools 12pm. Denizli 2pm
-- Day 5: 9/17 Fri Tetrapylon Aphordisease Antik Kenti.  Sean Jean Slisesi. Museum with god-fearer inscription. Sebastion reliefs (in museum). Sebastion on site 10am. Huge stadium 11am
-- Day 6: 9/18 Sat  Manisa (Vineyardn 9am). Sardis 11am.Artemis Tapinagi 12pm.  Small city park Ragip Bey Mh 5pm
-- Day 7: 9/19 Sunday   
+- Day 1: Tuesday 9/14
+  - Vaclav Museum 
+  - Antalya Museum 9/14  
+  - Perga Muratpasa.  Harbor. Antalay Museum 10am.  Perga
+- Day 2: 9/15 Weds  Gorguorta Mh (outside Yalvac). Museum
+  - Colossae????
+- Day 3: 9/16 Thurs Denizli Frontinus Gate and Heiropolos (spring). Pamukkale Pools 12pm. Denizli 2pm
+  - Laodicea 
+- Day 4: 9/17 Fri 
+  - Philadelphia
+  Tetrapylon Aphordisease Antik Kenti.  Sean Jean Slisesi. Museum with god-fearer inscription. Sebastion reliefs (in museum). Sebastion on site 10am. Huge stadium 11am
+  - Aphrodisias city of Marble
+- Day 5: 9/18 Sat  Manisa (Vineyardn 9am). Sardis 11am.Artemis Tapinagi 12pm.  Small city park Ragip Bey Mh 5pm
+- Day 6: 9/19 Sunday   
   - Ulucamii Mh 9am. 
   - Kurtulus Mh 9:30am. 
   - Theater and temple to Dionysus 10am 
   - Selcuk Mn 12:20pm. 
   - Zafer Mn (Aesculayeon). 
-  - Pergamom?  
+  - Pergamum
   - Smyrna 4pm
 - Sabbath
 - Day 8: 9/21 Tuesday 
-  - Ataturk Mh 10am. 
+  - Ataturk Mh 10am.  
   - Mt Croessus.
   - Selcuk (Ephesus) museum 1pm. 2 statues of Artemis. 
   - Ephesus Ruins (first day) Pierene
 - Day 9: 9/22 Wednesday. 
   - St Jean Kilisesi. Focus on Revelations. 
   - Villas in Ephesus. 
-- Day 10: 9/23 Thursday. Didyma. Miletos
+- Day 10: 9/23 Thursday. Didyma. Miletos. Priene?
 
 # Day 1
 
