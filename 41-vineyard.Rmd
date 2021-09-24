@@ -3,23 +3,11 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Sardis
+## Parable of the Vineyard
+
 Saturday Sept 18th morning
 
-## Gospel of John
-
-- Written to Asia
-
-## Vineyards
-
-Jn
-
-
-Ancient vineyards run along the ground.  In contact with ground, grapes can become contaminated with fungus (grape smut?) which stunts their growth
-
-Modern vineyards raise the vines off the ground on wires.
-
-Vinedresser in ancient times if they found contaminated grapes, wound life up vines on a rock on on a forked stick in order to allow the sun to dry off the grapes and combat grape fungus.
+Ancient vineyards run along the ground.  In contact with ground, grapes can become contaminated with fungus (grape smut?) which stunts their growth. Modern vineyards raise the vines off the ground on wires. In ancient times, if the Vinedresser found contaminated grapes, he would lift up the vines or a rock or on a forked stick in order to allow the sun to dry off the grapes and combat grape fungus.
 
 
 Every branch that bears fruit the vinedresser prunes, that it will bear more fruit.
@@ -29,11 +17,7 @@ Pruning cuts off leaves
 - Allows sun to get to other leaves
 - Permits directing nutrients
 
-
-
-=> We need to trim the good things in our lives to make energy for the great things.
-
-Requires being clear on who you are and what you are uniquely called (and gifted) to do
+_We need to trim the good things in our lives to make energy for the great things. Requires being clear on who you are and what you are uniquely called (and gifted) to do_
 
 "Good to Great" - Enemy of great is good
 
@@ -41,7 +25,7 @@ Brad Gray - As a candidate for a pastoral job - re-wrote the job description and
 
 Look at how many times Jesus disppointed those around him (people he didn't heal). "That is why I have been sent"
 
-Imperative : __remain in me__
+Jesus's imperative : __remain in me__
 
 ## What are the fruit
 

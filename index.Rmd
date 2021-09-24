@@ -27,12 +27,30 @@ install.packages("bookdown")
 
 Notes from [Walking the Text](http://walkingthetestcom) trip to Turkey September 12-24, 2021
 
-- Day 1: Antalya
-- Day 2: 
-- Day 3:
-
-- Day 9: Pierene
-
+- Day 1: Vaclav 9/13 01-vaclav
+- Day 2: Antalya 9/14  Perga Muratpasa.  Harbor. Antalay Museum 10am.  Perga
+- Day 3: 9/15 Weds  Gorguorta Mh (outside Yalvac). Museum
+- Day 4: 9/16 Thurs Denizli Frontinus Gate and Heiropolos (spring). Pamukkale Pools 12pm. Denizli 2pm
+- Day 5: 9/17 Fri Tetrapylon Aphordisease Antik Kenti.  Sean Jean Slisesi. Museum with god-fearer inscription. Sebastion reliefs (in museum). Sebastion on site 10am. Huge stadium 11am
+- Day 6: 9/18 Sat  Manisa (Vineyardn 9am). Sardis 11am.Artemis Tapinagi 12pm.  Small city park Ragip Bey Mh 5pm
+- Day 7: 9/19 Sunday   
+  - Ulucamii Mh 9am. 
+  - Kurtulus Mh 9:30am. 
+  - Theater and temple to Dionysus 10am 
+  - Selcuk Mn 12:20pm. 
+  - Zafer Mn (Aesculayeon). 
+  - Pergamom?  
+  - Smyrna 4pm
+- Sabbath
+- Day 8: 9/21 Tuesday 
+  - Ataturk Mh 10am. 
+  - Mt Croessus.
+  - Selcuk (Ephesus) museum 1pm. 2 statues of Artemis. 
+  - Ephesus Ruins (first day) Pierene
+- Day 9: 9/22 Wednesday. 
+  - St Jean Kilisesi. Focus on Revelations. 
+  - Villas in Ephesus. 
+- Day 10: 9/23 Thursday. Didyma. Miletos
 
 # Day 1
 
@@ -99,20 +117,5 @@ Alexander the Great - Was a missionary spreading a message of Helenism
 - Brought an individualistic mentality
 - Sex and alcohol to excess
 
-### Site
-
-[#### Nymphaeum](https://en.wikipedia.org/wiki/Nymphaeum) - Water souce. Message: Gods and Goddesses bring you your water
-
-Worship of the gods: Underlying concept is that the gods are angry and need to be appeased.
-
-- Christians seen as atheists because they did not worship Roman gods
-- Jews were offered exemption to worship of Roman gods by Caesar Augustus
-- Jews later told the Romans that Christians were "not one of us", and should not qualify for the exemption.
-
-Question: As a Christian, do you drink the water in the Nymphaem?
-
-### Sarcophagus
-
-Dead buried above ground
 
 
