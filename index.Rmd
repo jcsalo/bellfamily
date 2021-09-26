@@ -69,9 +69,9 @@ Ez 40:4
 
 > And the man said to me, “Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I shall show you, for you were brought here in order that I might show it to you. Declare all that you see to the house of Israel.”
 
-## Alexander the Great
+## History Timeline
 
-### History Timeline
+### Alexander the Great
 
 Alexander the Great defeats Persians
 
@@ -84,40 +84,45 @@ Alexander the Great defeats Persians
 
 Israel alternated control by either Ptolemy or Seleusus.  Antiochus IV (Seleucid) offends Jews with the abomination of desolation 
 
-## Roman Empire
+### Roman Empire
 
 Problem: How to forge a Roman identity across the empire?
 
-Virgil commissioned to write the Aenid as an origin story for Rome starting with the burning of Troy (where Homer's Iliad leaves off).  "The ox and the lion 
+Virgil commissioned to write the Aenid as an origin story for Rome starting with the burning of Troy (where Homer's Iliad leaves off).  "The ox and the lion will lie down together"
 
 ### Juius Caesar
 
-Came to power in 61BC. Enemy was Pompeii, and a civil war broke out. Pompeii was subsequently assisinated in Egypt. 
+61BC - Julius Caesar comes to power. Enemy was Pompeii, and a civil war broke out. Pompeii was subsequently assassinated in Egypt. 
+
+59BC - comet appears and this is claimed as a sign that Caesar is divine. 
 
 44BC - Julius Caesar was asasinated by Bruts and Cassius.
 
 Caesar's will names Octavian, his nephew, as next roman leader. 
 
+### Octavian (Caesar Augustus)
+
 Octavian assumes power at age 18
-
-59BC - comet appears and this is claimed as a sign that Caesar is divine. 
-
-XXBC - Senate declares Julius Caesar as divine. 
 
 43BC - Triumverate: Octavian, Mark Anthony, Lepidus. Lepidus is subsequently dismissed. 
 
-31BC - Battle of Actium - Octavian defeats Mark Antony. 
+31BC - Battle of Actium - Octavian defeats Mark Anthony. Mark Anthony had married Cleopatra, with whom Julius Caesar had ha a relationship. 
 
-29BC - Asia (which city) proposes to build a temple for Octavian. He agrees, with the condition that temples are built for Roma and XXX in XXX.
+29BC - Pergamum proposes to build a temple for Octavian. He agrees, with the condition that temples are built for Roma and Julius Caessar in Ephesus.
 
 27BC - Octavian offers to yield power to senate, which subsequently make him the first emporer
 
 
 ### Emperors
 
-- Caesar Augustus
-- Tiberius
-- Calligula
+- Caesar Augustus 27BC - 14AD
+- Tiberius 14AD - 37AD
+- Caligula 37AD - 41AD
+- Claudius 41AD - 54AD
+- Nero 54AD - 68AD
+- Vaspasian 68AD - 79AD
+- Titus 79AD - 81AD
+- 
 
 ### Roman Triumph
 
@@ -168,9 +173,6 @@ XXBC - Senate declares Julius Caesar as divine.
   I Cor 4:15  Leads us as captives
   
   We are the aroma...
-  
-  
-  
 
 ## Regions
 
