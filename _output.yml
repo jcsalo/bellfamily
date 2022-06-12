@@ -3,9 +3,8 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Turkey 2021</a></li>
+        <li><a href="./">Bell Family History</a></li>
       after: |
-        <li><a href="https://walkingthetext.com" target="blank">Walking The Text</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
