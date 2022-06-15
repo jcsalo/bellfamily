@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Birth
+# Alice Bell
 
 Alice Bell was born July 30, 1923 to Carrie Cox Bell and John William Bell on a farm in Boone County, Indiana adjacent to her grandfather Bell's farm.  Subsequent to the death of her great-grandfather on her mother's side, Clark Millikan, her family moved to a farm in Hamilton County outside Sheridan, Indiana.  She grew up with John Dudley Bell and half-sisters Dora Katherine (Walker) and Rosemary (Hockett).
 
@@ -23,19 +23,15 @@ In 1862 the Confederate Congress did enact a five-hundred-dollar exemption fee, 
 
 After the war, Abraham Lincoln resetteled Confererate deserters.
 
-Traded farms with his cousin, who owned a frma in Hamilton County, Indiana.  The cousin's wife had recently died, leaving him with 2 small children.  The cousin was eager to return to North Carolina where he had family who could him him raise his children.  Clark Millikan's farm in Randolph County, NC was a developed, working farm, and the 80 acres in Hamilton County, IN contained only 8 acres of cleared land.  Clark's cousin offered 400 dollars to make up the difference in value of the two farms.
+Traded farms with his cousin, who owned a frma in Hamilton County, Indiana.  The cousin's wife had recently died, leaving him with 2 small children.  The cousin was eager to return to North Carolina where he had family who could him him raise his children.  Clark Millikan's farm in Randolph County, NC was a developed, working farm, and the 80 acres in Hamilton County, IN contained only 8 acres of cleared land. The farm in Randolph county consisted of 207 acres of tilled land.  Clark's cousin offered 400 dollars to make up the difference in value of the two farms.
 
-**Who was Bales?**
+The 80 acres was located in the Southwest corner of Adams Township in Hamilton county.  Finley creek ran though the farm in a north-south direction.  The land was originally granted to Asa Bales in the 1800s as an original land grant.  In 1899, the land plats show the land was owned by George M--- who worked as a barber in Westfield, Indiana.
 
-Clark Millikan was considered a deserter of the Confederate, so he couldn't return to North Carolina. He sent for his wife, Lydia Hinskaw Millikan, to join him. She travelled by wagon train from Randolph County, NC to Hamilton County, IN, which was a 3 month journey which had to be made in summertime.  She had difficulty finding a wagon train to take her and her family because the family did not have an adult male to help with the work.  The wagon train members agree to allow her son Elwood (age 10) to work in tending the animals. Elwood walked from North Carolina to Indiana. Somewhere in mountains. Alice's grandmother was a baby ?1 year. Was born in 1864 (this was 1865). She got very sick, and women in wagon train agreed that she was dying. Wagon train was considerate. Came to a little village. We will camp here overnight. Men will use the day to repair harnesses, etc overnight. There was a graveyard in the little village.  Young and old tended to die on the way.  Tended to make an umarked grave along the way. Grandmother didn't die that night.  Aunt angeline could probably drive that team. 
+
 
 Native Americans lived off acorns, which they referred to as a grain that grows on tree.
 
-Clark Millikan 101 when he died. 2 months shy of 102nd birthday. Alice Cox taking care of aunt Angeline and Clark. (Mom's great grandfather). Alice Cox was putting away Clark's winter underwear without mending it - a sign the time. Alice Cox (had to admit sheepishly that he wouldn’t need them that year, but the next winter he did need them.
-
-Clark was older and not longer farming but grandson Arza was farming. Was 101 and was digging outlet of tile ditch.  Probably doing it himself because it had to be done precisely. Got hot and perspired and cooled off too rapidly and got pneumonia and he died.  Celebrated 60th wedding anniversary. Clark died then a few weeks later, Angeline died. Then Alice Millikan Cox dies soon thereafter.  People may have more controll over it than thought.
-
-At that point, family bought 80 acres.  Mom born and first five year in boone county.  Adjacent to Grandfather Bell. Then mooved to Hamilton County. Traded 209 acres in NC for 80 acres of trees in Indiana and money in addition  Spent rest of life turning it into 
+At that point, family bought 80 acres.  Mom born and first five year in boone county.  Adjacent to Grandfather Bell. Then mooved to Hamilton County. 
 
 Carrie gave John D and Alice 80 acres of land each in 1963.  Mom got 80 acres of Clark's land.  John was living on the other 80 acres, so John got the 80 acres he was living on it.
 
@@ -43,13 +39,9 @@ At time of carrie's death, there was additional land. Mom elected to let John D 
 
 Marilynn - two trusts - John D Bell trust - included his 80 + 17 + Stewart farm.  Other one is the Marilynn Bell trust with the land of Highway 38 with new house.
 
-Carrie - began to ask friend. 
-
 Alice Cox - DID she have PCKD? Died of renal failure… Died at 68.   
 
-Marilyn called Mom to come to Sheridan because time was near.  Mom saw how she ate a Thanksgiving, and knew end was not near.  Died at least two years later. She subsequently fell… bent dishwasher
-
- door Marilyn was calling daily.  Went to nursing home…. 
+Marilyn called Mom to come to Sheridan because time was near.  Mom saw how she ate a Thanksgiving, and knew end was not near.  Died at least two years later. She subsequently fell… bent dishwasher door. Marilyn was calling daily.  Went to nursing home…. 
 
 Farm Life in 1930s
 
